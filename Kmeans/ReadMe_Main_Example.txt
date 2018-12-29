@@ -1,0 +1,1 @@
+Run the code "Main_Example" for reviewing the k-means code for 2 dimensions. In the code "CalcKmeans" there is an option in the end of it to plot the result after each iteration.
